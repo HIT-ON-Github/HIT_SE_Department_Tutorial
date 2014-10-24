@@ -111,7 +111,7 @@ def prepare_symbols_and_productions():
 
 		    # 尝试
             try:
-            	   # 把右侧内容赋给临时变量right
+            	# 把右侧内容赋给临时变量right
                 right = l.split('::=')[1].strip()
                 # 如果right为空
                 if right == '':
