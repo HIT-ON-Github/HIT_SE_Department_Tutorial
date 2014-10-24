@@ -8,7 +8,7 @@
 
 （**前方高能预警**：以下示例仅用于实验相关代码，请不要在自己任何可能被除了老师之外的其他人读到的代码里轻易尝试这种做法，否则后果自负）
 
-（以下代码原版在这里 https://github.com/skyline75489/HIT_Compiler_Experiment/blob/master/parser.py（
+（以下代码原版在这里 https://github.com/skyline75489/HIT_Compiler_Experiment/blob/master/parser.py ）
 
 请看下面这一段Python代码：
 
