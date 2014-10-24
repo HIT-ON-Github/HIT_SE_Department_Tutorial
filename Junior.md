@@ -142,3 +142,30 @@ def prepare_symbols_and_productions():
 ```
 
 怎么样？是不是一句废话也没有，并且完美地实现了我们添加注释的目的？上面这段代码，尽管读起来跟中英文对照的新东方课本似的，但是一定能在老师那里拿到高分的。
+
+另外，如果你使用的是高端大气的易语言，或者你想写使用高端大气的英文写注释，请参考下面的代码：
+
+```c
+/*版本号 2*/
+.版本 2
+/* 程序集 1*/
+.程序集 程序集1
+/* 子程序，启动子程序，返回整数型*/
+.子程序 _启动子程序, 整数型
+
+/*标准输出 你好，世界*/
+标准输出 (, “你好，世界！”)
+/*返回 0*/
+返回 (0)
+```
+
+```java
+class Person {
+	/*private String name */
+	private String name;
+	/*private int age */
+	private int age*/;
+	/*private String address*/
+	private String address;
+}
+```
